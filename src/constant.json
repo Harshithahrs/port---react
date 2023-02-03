@@ -1,0 +1,66 @@
+{
+    "experiences": [
+        {
+            "company": "HyperVerge Academy",
+            "link": "/",
+            "title": "Fellow",
+            "duration": "July 2022 - Present",
+            "desc": [
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "when an unknown printer took a galley of type and scrambled.",
+                "It is a long established fact that a reader will be distracted."
+            ]
+        },
+        {
+            "company": "ICT SMS(WISTRON) PVT LTD",
+            "link": "/",
+            "title": "Reliability Engineer",
+            "duration": "Feb 2017 - Aug 2017",
+            "desc": [
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "when an unknown printer took a galley of type and scrambled.",
+                "Various versions have evolved over the years, sometimes by accident"
+            ]
+        },
+        {
+            "company": "TCI TECH",
+            "link": "/",
+            "title": "Internship",
+            "duration": "Sep 2017 - May 2018",
+            "desc": [
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "when an unknown printer took a galley of type and scrambled.",
+                "It is a long established fact that a reader will be distracted."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Upgraded Portfolio",
+            "image": "./images/project_1.png",
+            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "skills": [
+                "HTML",
+                "css",
+                "JAVASCRIPT"
+            ],
+            "github": "/",
+            "link": ""
+        },
+        {
+            "title": "SNS",
+            "image": "./images/project_2.png",
+            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "skills": [
+                "NODE JS",
+                "Express",
+                "MongoDB"
+            ],
+            "github": "/",
+            "link": "/"
+        }
+    ]
+}
